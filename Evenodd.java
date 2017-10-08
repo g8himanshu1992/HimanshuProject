@@ -13,6 +13,7 @@ class Evenodd
       if(n%2==0)
       {
         System.out.println("Even");
+        System.out.println("Even Numbers");
       }
       else
       {
