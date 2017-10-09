@@ -12,7 +12,13 @@ class Array
 		   n = in.nextInt();
          for(i=0;i<n ;i++)
          {
-
+			 arr[i]=i+1;
 		 }
+		 for(i=0;i<n ;i++)
+		          {
+		 			  System.out.println(+arr[i]);
+		 }
+
+
 	 }
 }
